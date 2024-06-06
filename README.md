@@ -3,7 +3,7 @@
 This repository provides a set of environments created using [Unity ML Agents](https://unity-technologies.github.io/ml-agents/), suitable for Meta Reinforcement Learning.
 
 [Unity ML Agents](https://unity-technologies.github.io/ml-agents/) is a versatile tool for creating environments in the Unity engine and providing a convenient interface for interaction with Python. However, at the moment, there is a lack of environments for meta reinforcement learning available in the open access.
-For this reason, I decided to make my developments publicly available.
+For this reason, I decided to make my developments publicly available. All necessary components could be found [here](https://drive.google.com/drive/folders/1Pc9AMZT4mPpa_0kZ36uY4VfFymxpiLB9).
 
 ## RETURNING FORMAT
 
