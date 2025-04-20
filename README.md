@@ -29,4 +29,3 @@ The second and third channels show the positions of the targets. Here, the color
 
 The last component is a vector of numerical data with a dimension of 7. The components correspond to the following values: Number of enemies (in the agent's local environment), number of score zones (in the agent's local environment), number of frames since simulation launch, reward value, initial number of enemies in the level, initial number of score zones, number of bullets fired.
 
-For any questions, please contact me @beg1488.
